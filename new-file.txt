@@ -1,1 +1,2 @@
 This is a file added in feature branch.
+This is new line of code added in feature2 branch
